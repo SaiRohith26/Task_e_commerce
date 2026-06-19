@@ -201,7 +201,7 @@ http://localhost:5000/register.html
 
 ## Author
 
-**Gotti Sai Rohith**
+**Sai Rohith**
 
 Computer Science Engineering Student
 
